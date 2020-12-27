@@ -7,19 +7,19 @@ body{
  direction:rtl;
 }
 </style>
-### میرمحمد کمالی
-<a href="https://uupload.ir/view/1d9z_me.jpg" target="_blank"><img src="https://uupload.ir/files/1d9z_me_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+### مریم حاجی عزیزی
+<a href="https://uupload.ir/view/hfvg_whatsapp_image_2020-11-12_at_5.08.08_pm.jpeg" target="_blank"><img src="https://uupload.ir/files/hfvg_whatsapp_image_2020-11-12_at_5.08.08_pm_thumb.jpeg" border="0" alt="آپلود عکس" /></a>
 
 ### اطلاعات شخصی
 
 ---
 <ol>
- <li> نام : میرمحمد</li>
- <li> نام خانوادگی : کمالی</li>
- <li> تاریخ تولد : ۱۳۷۸/۰۱/۲۱</li>
+ <li> نام : مریم</li>
+ <li> نام خانوادگی : حاجی عزیزی</li>
+ <li> تاریخ تولد :1367</li>
  <li> وضعیت تاهل : مجرد</li>
  <li> دانشجوی مهندسی کامپیوتر</li>
- <li> موقعیت مکانی : ایران،تهران</li>
+ <li> موقعیت مکانی : ایران، تهران، لواسان</li>
 </ol>
 
 
@@ -27,36 +27,36 @@ body{
 
 ---
 <ol>
- <li> خرید و فروش اوراق بهادار بورس تهران</li>
- <li> برنامه نویسی</li>
- <li> بازی های ویدئویی</li>
+ <li> حسابداری</li>
+ <li>  جستجو در اینترنت</li>
+ <li>  امور دفتری بیمه </li>
 </ol>
 
 ### تحصیلات
 
 ---
 <ol>
-<li> دیپلم : مدرسه ی شهید چمران
- _ ۹۴/۹۵</li>
+<li> دیپلم : هنرستان امام خمینی
+ _ 86 </li>
 <li> کارشناسی : 
- _ ورودی سال۹۷ دانشگاه پیام نور شهر ری</li>
+ _ ورودی سال۹۷ دانشگاه پیام نور لواسانات</li>
 </ol>
 
 ### علایق
 
 ---
 <ol>
- <li> معامله</li>
- <li> پینگ پونگ</li>
+ <li> تنیس</li>
+ <li>  یوگا</li>
  <li> مسافرت</li>
- <li> بازی های ویدئویی</li>
+ <li>  شنا</li>
 </ol>
 
 ### سوابق کاری
 
 ---
 <ol>
- <li> مدرس تحلیل نمودار کارگزاری مفید</li>
+ <li> امور بیمه و حسابدار شرکت معماری</li>
 </ol>
 
 ### زبان های محاوره
@@ -64,8 +64,6 @@ body{
 ---
 <ol>
  <li> فارسی</li>
- <li> ترکی استانبولی</li>
- <li> آذری</li>
  <li> انگلیسی</li>
 </ol>
 
@@ -73,15 +71,8 @@ body{
 
 ---
 <ol>
- <li> Android</li>
- <li> IOS</li>
- <li> Java Script</li>
- <li> C</li>
- <li> ++C</li>
- <li> HTML</li>
- <li> CSS</li>
- <li> SQL</li>
-</ol>
+  <li> Java Script</li>
+ </ol>
  
 
-### [تماس با من](https://web.telegram.org/#/im?p=@M7M_K)
+### [تماس با من)
