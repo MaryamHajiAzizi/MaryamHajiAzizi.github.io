@@ -7,72 +7,91 @@ body{
  direction:rtl;
 }
 </style>
-### مریم حاجی عزیزی
-<a href="https://uupload.ir/view/hfvg_whatsapp_image_2020-11-12_at_5.08.08_pm.jpeg" target="_blank"><img src="https://uupload.ir/files/hfvg_whatsapp_image_2020-11-12_at_5.08.08_pm_thumb.jpeg" border="0" alt="آپلود عکس" /></a>
+
+---
+[FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
+
+### About Me
+I am Tala Azizi , born on 1379/01/27
+I am a bachelor student of Payame Noor University of North Tehran with a major in computer software engineering, entrance 97;
+I also have a diploma in experimental sciences.
+
+### phon number
++ 09196812031
+
+### Personal information
++ First name : Tala
+
++ Last name : Azizi
+
++ Birth Day : 27 farvardin 1379
+
+### Languages
++ Persian
+
++ Turkish
+
++ English(Intermediate)
+
+### Skills
++ Latex typing
++ ICDL skills
++ Java programming
++ C programming language
++ Working with SQL Server software
++ Write text and poetry
++ Photo design
++ Solve physics problems
+ 
+### Work Experience
++ Design and implementation of university curriculum projects (free of charge)
+
+### Certifications
+
+### Contact Me
+- Gmail: talaazizi2779@gmail.com
+- Quera Profile: <a href="https://quera.ir/profile/talaazizi2779">My Profile</a>
+
+
+### درباره من
+من عزیزی هستم ، متولد 1379/01/27
+دانشجوی کارشناسی دانشگاه پیام نور تهران شمال با گرایش مهندسی کامپیوترنرم افزار ، ورودی 97 هستم؛
+من نیز دیپلم علوم تجربی هم دارم.
+
+### شماره تماس 
++ 09196812031
 
 ### اطلاعات شخصی
++ نام: طلا
 
----
-<ol>
- <li> نام : مریم</li>
- <li> نام خانوادگی : حاجی عزیزی</li>
- <li> تاریخ تولد :1367</li>
- <li> وضعیت تاهل : مجرد</li>
- <li> دانشجوی مهندسی کامپیوتر</li>
- <li> موقعیت مکانی : ایران، تهران، لواسان</li>
-</ol>
++ نام خانوادگی : عزیزی
 
++ تولد: 27 فروردین 1379
+
+### زبان
++ فارسی
+
++ ترکی
+
++ (انگلیسی  (متوسط
 
 ### مهارت ها
++ تایپ لاتکس
++ ICDL مهارت های 
++ برنامه نویسی به زبان جاوا
++ C برنامه نویسی به زبان  
++ SQL Server کار کردن با نرم افزار  
++ نوشتن متن و شعر
++ طراحی عکس
++ حل مسائل فیزیک
 
----
-<ol>
- <li> حسابداری</li>
- <li>  جستجو در اینترنت</li>
- <li>  امور دفتری بیمه </li>
-</ol>
-
-### تحصیلات
-
----
-<ol>
-<li> دیپلم : هنرستان امام خمینی
- _ 86 </li>
-<li> کارشناسی : 
- _ ورودی سال۹۷ دانشگاه پیام نور لواسانات</li>
-</ol>
-
-### علایق
-
----
-<ol>
- <li> تنیس</li>
- <li>  یوگا</li>
- <li> مسافرت</li>
- <li>  شنا</li>
-</ol>
-
+  
 ### سوابق کاری
++ (طراحی و اجرای پروژه های درسی دانشگاه (بصورت رایگان
 
----
-<ol>
- <li> امور بیمه و حسابدار شرکت معماری</li>
-</ol>
+### گواهی مهارت
 
-### زبان های محاوره
 
----
-<ol>
- <li> فارسی</li>
- <li> انگلیسی</li>
-</ol>
-
-### زبان های برنامه نویسی
-
----
-<ol>
-  <li> Java Script</li>
- </ol>
  
 
 ### [تماس با من](maryam_h.azizi67@yahoo.com)
