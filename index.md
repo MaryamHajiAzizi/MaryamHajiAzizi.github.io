@@ -1,7 +1,6 @@
 
 ---
 [FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
-</style>
 
 ### About Me
 I am Tala Azizi , born on 1379/01/27
