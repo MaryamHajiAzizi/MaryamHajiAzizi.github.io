@@ -1,12 +1,6 @@
 
 ---
 [FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
-
-
-<style type="text/css">
-body{
- direction:rtl;
-}
 </style>
 
 ### About Me
