@@ -42,7 +42,7 @@ I also have a diploma in experimental sciences.
 
 
 ### Contact Me
-- Gmail: Maryam_h.azizi67@yahoo.com
+- Gmail: maryam_h.azizi67@yahoo.com
 
 ------
 ------
