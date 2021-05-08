@@ -7,9 +7,7 @@
 ----
 
 ### About Me
-I am Maryam Haji Azizi , born on 1379/01/27
-I am a bachelor student of Payame Noor University of North Tehran with a major in computer software engineering, entrance 97;
-I also have a diploma in experimental sciences.
+Student of Computer Engineering, Accounting degree, fluent in English office programs born in 67/03/17, worked in architectural engineering company has ten years of professional experience, 83 year Associate Degree in the field of computer hardware input leader of Varamin
 
 ### phon number
 + 09197237200
@@ -30,16 +28,17 @@ I also have a diploma in experimental sciences.
 + English(Intermediate)
 
 ### Skills
-
- 
++ Accounting
++ Office
++ work with computer
  
 ### Work Experience
-
++ Has ten years of experience in architectural engineering company
 
 
 ### Certifications
-
-
++ University Associate Degree in the field of computer hardware 83 Führer input of Varamin
++ Specialized degree in accounting
 
 ### Contact Me
 - Gmail: maryam_h.azizi67@yahoo.com
@@ -48,13 +47,10 @@ I also have a diploma in experimental sciences.
 ------
 
 ### درباره من
-من عزیزی هستم ، متولد 1379/01/27
-دانشجوی کارشناسی دانشگاه پیام نور تهران شمال با گرایش مهندسی کامپیوترنرم افزار ، ورودی 97 هستم؛
-من نیز دیپلم علوم تجربی هم دارم.
+دانشجوي مهندسي كامپيوتر،داراي مدرك تخصصي حسابداري،مسلط به زبان انگليسي برنامه هاي officeمتولد سال٦٧/٠٣/١٧ ،مشغول به كار در شركت مهندسي معماري داراي ده سال سابقه كاري،فوق ديپلم رشته كامپيوتر سخت افزار ورودي سال ٨٣ دانشگاه پيشوا ورامين
 
 ### شماره تماس 
 + 09197237200
-
 
 
 ### اطلاعات شخصی
@@ -62,7 +58,7 @@ I also have a diploma in experimental sciences.
 
 + نام خانوادگی : حاجی عزیزی
 
-+ تولد: 27 فروردین 1379
++ تولد: 17 خرداد 1367
 
 
 
@@ -74,16 +70,19 @@ I also have a diploma in experimental sciences.
 
 
 ### مهارت ها
-
++ حسابداری
++ Office
++ کار با کامپیوتر
   
   
 ### سوابق کاری
++ دارای ده سال تجربه در شرکت مهندسی معماری
 
 
 
 ### گواهی مهارت
-
-
++ فوق ديپلم رشته كامپيوتر سخت افزار ورودي سال ٨٣ دانشگاه پيشوا ورامين
++ مدرک تخصصی حسابداری
  
 
 ### [تماس با من](maryam_h.azizi67@yahoo.com)
